@@ -1,0 +1,52 @@
+﻿<Page x:Class="FantaAsta2000.ConfigurationUI"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FantaAsta2000"
+      mc:Ignorable="d" Title="Configurazione Rosa" Height="450" Width="800">
+
+    <Grid Name="MainConfiguration">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="190"/>
+            <ColumnDefinition Width="190"/>
+            <ColumnDefinition Width="190"/>
+            <ColumnDefinition Width="190"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="45"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Background/FreeVector-Soccer-Field-Vector.jpg" Stretch="Fill"/>
+        </Grid.Background>
+        <Label Name="lb_Budget" Content="Budget Rosa" FontSize="15" FontWeight="DemiBold" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="2" Grid.Row="1" Margin="0,10,0,0" />
+        <TextBox Name="Budget" TextWrapping="Wrap" TextAlignment="Center" FontSize="15" Text="" Width="150" Height="25"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,0,0" Grid.Column="2" Grid.Row="1" />
+
+        <CheckBox Name="ckb_freeRose" Content="Rose Libere?" FontSize="15" FontWeight="DemiBold" HorizontalAlignment="Center" Margin="0,10,0,0" Grid.Column="3" Grid.Row="1" VerticalAlignment="Center" Checked="ckb_freeRose_Checked" Unchecked="ckb_freeRose_Unchecked" />
+
+        <Label Name="lb_MaxPlayers" Content="Max Player" FontSize="15" FontWeight="DemiBold" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="4" Grid.Row="1" Margin="-15,10,0,0" Visibility="Hidden" />
+        <TextBox Name="NumberMaxPlayers" TextWrapping="Wrap" TextAlignment="Center" FontSize="15" Text="" Width="50" Height="25"  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,20,0,0" Grid.Column="4" Grid.Row="1" Visibility="Hidden" />
+
+        <Label Name="lb_MaxGolkeeper" Content="Portieri" FontSize="15" FontWeight="DemiBold" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="1" Grid.Row="2" Margin="0,10,0,0" />
+        <TextBox Name="NumberMaxGolkeeper" TextWrapping="Wrap" TextAlignment="Center" FontSize="15" Text="" Width="150" Height="25"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,0,0" Grid.Column="1" Grid.Row="2"/>
+
+        <Label Name="lb_MaxDefender" Content="Difensori" FontSize="15" FontWeight="DemiBold" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="2" Grid.Row="2" Margin="0,10,0,0"/>
+        <TextBox  Name="NumberMaxDefender" TextWrapping="Wrap" TextAlignment="Center" FontSize="15" Text="" Width="150" Height="25"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,0,0" Grid.Column="2" Grid.Row="2"/>
+
+        <Label Name="lb_MaxMid" Content="Centrocampisti" FontSize="15" FontWeight="DemiBold" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="3" Grid.Row="2" Margin="0,10,15,0"/>
+        <TextBox Name="NumberMaxMid" TextWrapping="Wrap" TextAlignment="Center" FontSize="15" Text="" Width="130" Height="25"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,15,0" Grid.Column="3" Grid.Row="2"/>
+
+        <Label Name="lb_MaxStriker" Content="Attaccanti" FontSize="15" FontWeight="DemiBold" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="4" Grid.Row="2" Margin="0,10,15,0"/>
+        <TextBox Name="NumberMaxStriker" TextWrapping="Wrap" TextAlignment="Center" FontSize="15" Text="" Width="130" Height="25"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,15,0" Grid.Column="4" Grid.Row="2"/>
+
+        <Button Content="Prosegui>>" x:Name="Btn_NextPage" FontSize="25" FontWeight="DemiBold" Background="DarkOrange" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300" Height="50" Grid.Column="2" Grid.Row="3" Click="Btn_NextPage_Click" Grid.ColumnSpan="2" Margin="0,20,10,20" />
+        <Frame x:Name="Main" Grid.ColumnSpan="6" Grid.RowSpan="5" />
+    </Grid>
+
+</Page>

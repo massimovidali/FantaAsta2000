@@ -2,11 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SQLite;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static FantaAsta2000.DataConstructs;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace FantaAsta2000
 {

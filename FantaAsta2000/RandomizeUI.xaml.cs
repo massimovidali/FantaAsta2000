@@ -238,12 +238,16 @@ namespace FantaAsta2000
                 rbPlayers.Where(x => x.Id == selectedPlayer.Id).ToList().ForEach(x => x.Sold = true);
                 // Aggiorno il db con il giocatore acquistato in caso di crash riparto da questa situazione
                 dbUtilityRandom.UpdateSoldPlayers(soldPlayer.Id, selectedCoach.Id, buyingPrice);
-                // Rimuovo dalla lista dei giocatori da poter ricercare il giocatore venduto
-                playersForSearch.Remove(soldPlayer);
-                // Ricarico l'Autocomplete di ricerca
-                AutoCompletePlayer.ItemsSource = new List<Player>();
-                AutoCompletePlayer.ItemsSource = playersForSearch;
-
+                // Se non sto usando il FAKETEAM, rimuovo dalla lista per la 
+                // ricerca il giocatore venduto. Altrimenti nella ricerca lascio 
+                // la possibilità di ricercare anche un giocatore scartato.
+                if (coachCb.SelectedValue.ToString().ToUpper() != "FAKETEAM")
+                {
+                    playersForSearch.Remove(soldPlayer);
+                    // Ricarico l'Autocomplete di ricerca
+                    AutoCompletePlayer.ItemsSource = new List<Player>();
+                    AutoCompletePlayer.ItemsSource = playersForSearch;
+                }
                 playersLeftLb.Content = rbPlayers.Where(x => x.Sold == false).Count().ToString();
 
                 if (rbPlayers.Where(x => x.Sold == false).Count() > 0)

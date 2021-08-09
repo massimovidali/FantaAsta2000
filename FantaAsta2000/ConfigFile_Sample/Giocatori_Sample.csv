@@ -1,0 +1,512 @@
+3;P;Radunovic Boris;Cagliari;1;false;Por
+4;P;Sportiello Marco;Atalanta;1;false;Por
+11;D;Conti Andrea;Milan;2;false;Dd - E
+15;D;Masiello Andrea;Genoa;4;false;Dd - Dc
+22;C;De Roon Marten;Atalanta;11;false;M - C
+42;P;Sarr Mouhamadou;Bologna;1;false;Por
+45;D;Ferrari Alex;Sampdoria;3;false;Dd - Dc
+50;D;Mbaye Ibrahima;Bologna;4;false;Dd - Ds - E
+58;C;Diawara Amadou;Roma;5;false;M - C
+76;D;Romagnoli Simone;Empoli;5;false;Dc
+90;A;Lasagna Kevin;Verona;12;false;Pc
+118;D;Radovanovic Ivan;Genoa;4;false;Dc
+133;P;Skorupski Lukasz;Bologna;9;false;Por
+140;D;Hysaj Elseid;Lazio;6;false;Dd - Ds - E
+142;D;Mario Rui Duarte;Napoli;5;false;Ds - E
+144;D;Tonelli Lorenzo;Sampdoria;5;false;Dc
+148;C;Krunic Rade;Milan;5;false;C - T
+150;C;Saponara Riccardo;Fiorentina;8;false;W - T
+152;C;Zielinski Piotr;Napoli;24;false;C - T
+158;P;Lezzerini Luca;Venezia;5;false;Por
+160;P;Tatarusanu Ciprian;Milan;1;false;Por
+170;C;Badelj Milan;Genoa;8;false;M - C
+173;C;Capezzi Leonardo;Salernitana;4;false;M - C
+177;A;Ilicic Josip;Atalanta;21;false;A
+181;C;Vecino Matias;Inter;5;false;M - C
+184;C;Bernardeschi Federico;Juventus;5;false;W - T
+186;A;Rebic Ante;Milan;23;false;A
+215;A;Verde Daniele;Spezia;14;false;A
+218;P;Perin Mattia;Juventus;1;false;Por
+224;D;De Maio Sebastien;Udinese;3;false;Dc
+226;D;Izzo Armando;Torino;8;false;Dd - Dc
+236;C;Lazovic Darko;Verona;15;false;E - W
+238;C;Rincon Tomas;Torino;6;false;M
+244;D;Ghiglione Paolo;Genoa;4;false;Dd - E
+247;A;Pavoletti Leonardo;Cagliari;18;false;Pc
+250;P;Handanovic Samir;Inter;17;false;Por
+252;D;Biraghi Cristiano;Fiorentina;9;false;Ds - E
+253;D;D'Ambrosio Danilo;Inter;5;false;Dd - Ds - Dc
+254;D;Dimarco Federico;Inter;8;false;Ds - E
+259;D;Murillo Jeison;Sampdoria;3;false;Dc
+261;D;Ranocchia Andrea;Inter;2;false;Dc
+264;C;Bessa Daniel;Verona;5;false;C - T
+265;C;Brozovic Marcelo;Inter;14;false;M - C
+272;C;Medel Gary;Bologna;2;false;M
+286;D;Bonucci Leonardo;Juventus;12;false;Dc
+294;D;Rugani Daniele;Juventus;5;false;Dc
+302;C;Pereyra Roberto;Udinese;17;false;W - T
+305;C;Sturaro Stefano;Genoa;5;false;M - C
+306;A;Cerri Alberto;Cagliari;4;false;Pc
+309;A;Dybala Paulo;Juventus;25;false;A
+311;A;Llorente Fernando;Udinese;9;false;Pc
+313;A;Morata Alvaro;Juventus;23;false;Pc
+315;A;Zaza Simone;Torino;11;false;Pc
+316;P;Berisha Etrit;Torino;1;false;Por
+318;P;Marchetti Federico;Genoa;1;false;Por
+322;D;De Vrij Stefan;Inter;14;false;Dc
+327;D;Patric;Lazio;3;false;Dd - Dc - E
+329;D;Radu Stefan;Lazio;5;false;Ds - Dc
+332;C;Candreva Antonio;Sampdoria;18;false;W
+333;C;Cataldi Danilo;Lazio;3;false;M - C
+335;C;Felipe Anderson;Lazio;16;false;W - A
+357;D;Calabria Davide;Milan;11;false;Dd - E
+358;D;De Sciglio Mattia;Juventus;4;false;Dd - Ds - E
+367;C;Bonaventura Giacomo;Fiorentina;11;false;C - W - T
+376;C;Verdi Simone;Torino;11;false;W - T
+383;A;Petagna Andrea;Napoli;11;false;Pc
+387;P;Reina Pepe;Lazio;14;false;Por
+390;D;Ghoulam Faouzi;Napoli;2;false;Ds - E
+392;D;Koulibaly Kalidou;Napoli;12;false;Dc
+393;D;Luperto Sebastiano;Napoli;2;false;Ds - Dc
+400;C;Dezi Jacopo;Venezia;2;false;C - T
+406;C;Callejon Josè Maria;Fiorentina;7;false;W
+407;A;Gabbiadini Manolo;Sampdoria;16;false;A
+409;A;Insigne Lorenzo;Napoli;32;false;A
+410;A;Mertens Dries;Napoli;25;false;A
+418;D;Goldaniga Edoardo;Sassuolo;5;false;Dc
+434;C;Jajalo Mato;Udinese;3;false;M - C
+441;A;Belotti Andrea;Torino;30;false;Pc
+447;A;La Gumina Antonino;Sampdoria;4;false;Pc
+453;P;Szczesny Wojciech;Juventus;17;false;Por
+454;D;Capradossi Elio;Spezia;1;false;Dc
+459;D;Manolas Konstantinos;Napoli;9;false;Dc
+460;D;Romagnoli Alessio;Milan;7;false;Dc
+464;D;Florenzi Alessandro;Roma;9;false;Dd - E
+467;C;Nainggolan Radja;Inter;15;false;C - T
+470;C;Strootman Kevin;Cagliari;11;false;M - C
+472;A;Destro Mattia;Genoa;21;false;Pc
+475;A;Iago Falque;Torino;8;false;A
+479;A;Sanabria Antonio;Torino;15;false;Pc
+481;P;Brignoli Alberto;Empoli;1;false;Por
+487;D;De Silvestri Lorenzo;Bologna;7;false;Dd - E
+495;A;Correa Joaquin;Lazio;20;false;A
+505;A;Bonazzoli Federico;Sampdoria;8;false;Pc
+507;A;Muriel Luis;Atalanta;39;false;Pc
+509;P;Consigli Andrea;Sassuolo;12;false;Por
+510;P;Pegolo Gianluca;Sassuolo;1;false;Por
+513;D;Acerbi Francesco;Lazio;12;false;Dc
+521;D;Peluso Federico;Sassuolo;3;false;Ds - Dc
+526;C;Duncan Alfred;Fiorentina;4;false;M - C
+528;C;Magnanelli Francesco;Sassuolo;2;false;M
+530;C;Pellegrini Lorenzo;Roma;22;false;C - T
+531;A;Berardi Domenico;Sassuolo;31;false;A
+536;A;Politano Matteo;Napoli;19;false;W - A
+537;A;Sansone Nicola;Bologna;9;false;A
+543;P;Padelli Daniele;Udinese;1;false;Por
+551;D;Molinaro Cristian;Venezia;2;false;Ds - E
+556;C;Baselli Daniele;Torino;5;false;C
+557;C;Benassi Marco;Fiorentina;4;false;C - T
+560;C;Obi Joel;Salernitana;4;false;M - C
+568;A;Quagliarella Fabio;Sampdoria;22;false;Pc
+572;P;Meret Alex;Napoli;14;false;Por
+574;P;Scuffet Simone;Udinese;1;false;Por
+581;D;Faraoni Davide;Verona;14;false;Dd - E
+600;C;Verre Valerio;Sampdoria;8;false;C - T
+608;A;Zapata Duvan;Atalanta;33;false;Pc
+630;D;Sala Jacopo;Spezia;2;false;Dd - E
+632;C;Zaccagni Mattia;Verona;18;false;T - A
+633;D;Fares Mohamed;Lazio;4;false;Ds - E
+640;D;Chiriches Vlad;Sassuolo;6;false;Dd - Dc
+643;A;Defrel Gregoire;Sassuolo;12;false;A
+644;C;Pulgar Erick;Fiorentina;8;false;M - C
+645;C;Milinkovic-Savic Sergej;Lazio;24;false;C - T
+647;A;Dzeko Edin;Roma;29;false;Pc
+652;A;Kalinic Nikola;Verona;9;false;Pc
+660;D;Guomber Norbert;Salernitana;4;false;Dc
+662;D;Alex Sandro Lobo;Juventus;11;false;Ds - E
+695;D;Toloi Rafael;Atalanta;9;false;Dc
+697;D;Cuadrado Jaime;Juventus;18;false;Dd - E
+704;C;Perisic Ivan;Inter;13;false;E - W
+706;D;Ansaldi Cristian;Torino;11;false;E
+720;P;Belec Vid;Salernitana;5;false;Por
+758;D;Mantovani Valerio;Salernitana;2;false;Dc
+761;P;Audero Emil;Sampdoria;12;false;Por
+770;D;Pezzella Giuseppe;Atalanta;7;false;E
+779;C;Cristante Bryan;Roma;7;false;M - C
+785;A;Immobile Ciro;Lazio;38;false;Pc
+787;D;Djimsiti Berat;Atalanta;10;false;Dc
+788;C;Freuler Remo;Atalanta;15;false;C
+790;D;Samir;Udinese;7;false;Ds - Dc
+791;D;Sabelli Stefano;Genoa;6;false;Dd - E
+795;A;El Shaarawy Stephan;Roma;11;false;W - A
+798;D;Skriniar Milan;Inter;15;false;Dc
+799;P;Bardi Francesco;Bologna;1;false;Por
+801;C;Gagliardini Roberto;Inter;6;false;M - C
+805;D;Fiamozzi Riccardo;Empoli;3;false;Dd - E
+819;A;Favilli Andrea;Genoa;3;false;Pc
+827;C;Locatelli Manuel;Sassuolo;16;false;M - C
+1839;A;Edera Simone;Torino;3;false;W - A
+1843;P;Radu Ionut;Inter;1;false;Por
+1847;D;Caldara Mattia;Milan;3;false;Dc
+1850;C;Kessiè Franck;Milan;27;false;M - C
+1852;D;Spinazzola Leonardo;Roma;13;false;Ds - E
+1866;D;Ceppitelli Luca;Cagliari;6;false;Dc
+1868;D;Murru Nicola;Sampdoria;3;false;Ds - E
+1870;C;Barella Nicolò;Inter;18;false;C
+1871;C;Deiola Alessandro;Cagliari;2;false;M - C
+1874;A;Joao Pedro Galvao;Cagliari;26;false;A
+1879;A;Farias Diego;Cagliari;6;false;A
+1889;P;Cordaz Alex;Inter;1;false;Por
+1891;D;Ceccherini Federico;Verona;4;false;Dd - Dc
+1895;D;Ferrari Gianmarco;Sassuolo;10;false;Dc
+1917;P;Dragowski Bartlomiej;Fiorentina;11;false;Por
+1930;P;Pinsoglio Carlo;Juventus;1;false;Por
+1933;C;Mandragora Rolando;Torino;10;false;M - C
+1934;P;Strakosha Thomas;Lazio;1;false;Por
+1943;A;Nestorovski Ilija;Udinese;9;false;Pc
+1946;P;Aresti Simone;Cagliari;1;false;Por
+1958;A;Caprari Gianluca;Sampdoria;10;false;A
+1978;C;Sensi Stefano;Inter;7;false;C
+1980;C;Aramu Mattia;Venezia;10;false;W - T
+1987;C;Jankto Jacub;Sampdoria;14;false;C - W
+1995;C;Djuricic Filip;Sassuolo;15;false;T
+1998;A;Pjaca Marko;Torino;4;false;A
+2002;C;Chiesa Federico;Juventus;29;false;W - A
+2006;D;Lirola Pol;Fiorentina;8;false;Dd - E
+2008;C;Linetty Karol;Torino;6;false;C
+2009;C;Lukic Sasa;Torino;9;false;C - T
+2011;C;Veloso Miguel;Verona;8;false;M - C
+2038;A;Pinamonti Andrea;Inter;7;false;Pc
+2061;A;Simeone Giovanni;Cagliari;13;false;Pc
+2064;D;Veseli Frederic;Salernitana;4;false;Dd - Ds - Dc
+2076;C;Rog Marko;Cagliari;7;false;M - C
+2077;C;Pasalic Mario;Atalanta;18;false;C - T
+2083;D;Biraschi Davide;Genoa;5;false;Dd - Dc - E
+2085;C;Luis Alberto Alconchel;Lazio;25;false;T
+2091;P;Plizzari Alessandro;Milan;1;false;Por
+2104;D;Bersezynski Bartosz;Sampdoria;7;false;Dd - E
+2116;D;Faragò Paolo;Cagliari;3;false;Dd - E
+2119;A;Deulofeu Gerard;Udinese;11;false;A
+2120;D;Bastoni Alessandro;Inter;11;false;Dc
+2121;C;Melegoni Filippo;Genoa;2;false;C
+2130;D;Hateboer Hans;Atalanta;13;false;E
+2134;P;Falcone Wladimiro;Sampdoria;1;false;Por
+2137;A;Scamacca Gianluca;Sassuolo;14;false;Pc
+2141;D;Depaoli Fabio;Sampdoria;3;false;Dd - E
+2144;C;Coulibaly Mamadou;Salernitana;4;false;M - C
+2154;C;Vignato Emanuel;Bologna;10;false;W - T
+2160;D;Gosens Robin;Atalanta;25;false;E
+2161;C;Haas Nicolas;Empoli;7;false;C
+2164;D;Milenkovic Nikola;Fiorentina;10;false;Dd - Dc
+2166;C;Bentancur Rodrigo;Juventus;9;false;C
+2167;C;Orsolini Riccardo;Bologna;18;false;W - A
+2169;D;Rodriguez Ricardo;Torino;5;false;Ds - E
+2170;P;Milinkovic-Savic Vanja;Torino;9;false;Por
+2171;D;Lyanco;Torino;6;false;Dc
+2172;C;Barak Antonin;Verona;17;false;T
+2174;D;Venuti Lorenzo;Fiorentina;3;false;Dd - Ds - E
+2178;P;Cragno Alessio;Cagliari;10;false;Por
+2180;D;Karsdorp Rick;Roma;12;false;Dd - E
+2181;D;Palomino Josè Luis;Atalanta;8;false;Dc
+2188;D;Marusic Adam;Lazio;6;false;Dd - Ds - E
+2192;D;Bonifazi Kevin;Bologna;7;false;Dc
+2194;C;Calhanoglu Hakan;Inter;19;false;T
+2195;A;Ounas Adam;Napoli;7;false;A
+2206;D;Felicioli Gian Filippo;Venezia;2;false;Ds - E
+2208;D;Jaroszynski Pawel;Salernitana;5;false;Ds - E
+2209;C;Leiva Lucas;Lazio;8;false;M - C
+2211;P;Silvestri Marco;Udinese;10;false;Por
+2213;C;Cassata Francesco;Genoa;2;false;M - C
+2214;D;Kolarov Aleksandar;Inter;3;false;Ds - Dc
+2215;C;Veretout Jordan;Roma;23;false;C
+2252;D;Marchizza Riccardo;Empoli;5;false;Ds - Dc
+2253;C;Bandinelli Filippo;Empoli;2;false;C
+2263;D;Lazzari Manuel;Lazio;10;false;Dd - E
+2279;D;Romagna Filippo;Sassuolo;1;false;Dc
+2280;D;Nuytinck Bram;Udinese;10;false;Dc
+2284;A;Caicedo Felipe;Lazio;14;false;Pc
+2285;D;Bani Mattia;Genoa;4;false;Dc
+2286;C;Crociata Giovanni;Empoli;1;false;C - T
+2289;D;Dalbert;Cagliari;5;false;Ds - E
+2296;D;Mancini Gianluca;Roma;14;false;Dc
+2297;P;Rossi Francesco;Atalanta;1;false;Por
+2302;C;Behrami Valon;Genoa;4;false;M
+2304;A;Salcedo Eddy;Inter;4;false;Pc
+2309;D;Pezzella German;Fiorentina;7;false;Dc
+2312;D;Hristov Petko;Spezia;1;false;Dc
+2315;D;Stryger Larsen Jens;Udinese;7;false;Dd - E
+2318;D;Rogerio;Sassuolo;6;false;Ds - E
+2328;D;Vanheusden Zinho;Genoa;6;false;Dc
+2334;C;Leris Mehdi;Sampdoria;3;false;C - W
+2335;D;Luiz Felipe Ramos;Lazio;7;false;Dc
+2379;C;Rabiot Adrien;Juventus;9;false;C
+2391;C;Ekdal Albin;Sampdoria;6;false;M - C
+2392;C;Walace Souza;Udinese;6;false;M
+2414;C;Vidal Arturo;Inter;8;false;C
+2468;P;Ospina David;Napoli;1;false;Por
+2472;C;Ramsey Aaron;Juventus;8;false;T
+2475;A;Sanchez Alexis;Inter;22;false;A
+2525;D;Darmian Matteo;Inter;9;false;E
+2529;C;Mkhitaryan Henrikh;Roma;30;false;T - A
+2530;A;Ibrahimovic Zlatan;Milan;33;false;Pc
+2531;A;Lukaku Romelu;Inter;44;false;Pc
+2572;D;Godin Diego;Cagliari;8;false;Dc
+2610;A;Cristiano Ronaldo;Juventus;44;false;Pc
+2625;C;Soriano Roberto;Bologna;20;false;T
+2633;D;Kjaer Simon;Milan;12;false;Dc
+2653;D;Lykogiannis Charalampos;Cagliari;8;false;Ds - E
+2692;C;Castillejo Samu;Milan;6;false;W
+2703;C;Adrien Silva;Sampdoria;6;false;M - C
+2719;A;Barrow Musa;Bologna;18;false;A
+2724;D;Buongiorno Alessandro;Torino;6;false;Ds - Dc
+2728;D;Pellegrini Luca;Juventus;4;false;Ds - E
+2739;D;Reca Arkadiusz;Atalanta;5;false;Ds - E
+2741;C;Pessina Matteo;Atalanta;14;false;C - T
+2743;A;Santander Federico;Bologna;4;false;Pc
+2744;C;Svanberg Mattias;Bologna;12;false;C
+2745;D;Calabresi Arturo;Bologna;1;false;Dd - Dc
+2746;D;Dijks Mitchell;Bologna;6;false;Ds - E
+2750;A;Mraz Samuel;Empoli;1;false;Pc
+2758;D;Gunter Koray;Verona;6;false;Dc
+2759;D;Criscito Domenico;Genoa;8;false;Ds - Dc - E
+2762;A;Kouamè Christian;Fiorentina;7;false;A
+2764;A;Martinez Lautaro;Inter;32;false;Pc
+2766;C;Zaniolo Nicolò;Roma;19;false;W - T
+2769;D;Magnani Giangiacomo;Verona;5;false;Dc
+2775;C;Ruiz Fabian;Napoli;17;false;C - T
+2778;C;Stulac Leo;Empoli;5;false;M - C
+2781;P;Fuzato Daniel;Roma;1;false;Por
+2784;D;Colley Omar;Sampdoria;9;false;Dc
+2788;D;Bremer;Torino;12;false;Dc
+2790;P;Rosati Antonio;Fiorentina;1;false;Por
+2792;P;Musso Juan;Atalanta;16;false;Por
+2793;D;Opoku Nicholas;Udinese;1;false;Dc
+2814;P;Provedel Ivan;Spezia;1;false;Por
+2815;P;Terracciano Pietro;Fiorentina;1;false;Por
+2816;D;Di Lorenzo Giovanni;Napoli;11;false;Dd - E
+2818;C;Bennacer Ismael;Milan;7;false;M - C
+2819;A;Caputo Francesco;Sassuolo;26;false;Pc
+2825;C;Bourabia Mehdi;Sassuolo;4;false;M - C
+2826;A;Pussetto Ignacio;Udinese;13;false;W - A
+2832;A;Boga Jeremie;Sassuolo;17;false;A
+2833;C;Kulusevski Dejan;Juventus;20;false;W - T
+2838;D;Imperiale Marco;Empoli;1;false;Ds - E
+2839;C;Sottil Riccardo;Fiorentina;8;false;W - A
+2841;A;Vlahovic Dusan;Fiorentina;34;false;Pc
+2845;P;Contini Nikita;Napoli;1;false;Por
+2848;C;Frattesi Davide;Sassuolo;7;false;C
+2855;C;Vieira Ronaldo;Sampdoria;4;false;M - C
+2857;C;Traorè Hamed ;Sassuolo;14;false;T
+2860;D;Malcuit Kevin;Napoli;3;false;Dd - E
+2865;D;Aina Ola;Torino;5;false;E
+2869;D;Djidji Koffi;Torino;2;false;Ds - Dc
+4179;A;Gonzalez Nicolas;Fiorentina;16;false;A
+4200;A;Giroud Oliver;Milan;20;false;Pc
+4237;D;Danilo Luiz da Silva;Juventus;14;false;Dd - Ds - E
+4245;D;Smalling Chris;Roma;10;false;Dc
+4268;A;Arnautovic Marko;Bologna;24;false;Pc
+4270;P;Rui Patricio;Roma;14;false;Por
+4285;C;Arthur Melo;Juventus;5;false;M - C
+4287;C;Lobotka Stanislav;Napoli;5;false;M - C
+4292;D;Hernandez Theo;Milan;21;false;Ds - E
+4307;D;Romero Cristian;Atalanta;15;false;Dc
+4312;P;Maignan Mike;Milan;15;false;Por
+4323;D;Zeegelaar Marvin;Udinese;7;false;Ds - E
+4324;A;Okaka Stefano;Udinese;12;false;Pc
+4329;D;Nikolaou Dimitrios;Empoli;5;false;Dc
+4331;D;Ibanez Roger;Roma;7;false;Dc
+4332;D;Demiral Merih;Juventus;5;false;Dc
+4346;A;Millico Vincenzo;Torino;3;false;A
+4359;A;Piccoli Roberto;Atalanta;12;false;Pc
+4366;D;Armini Nicolò;Lazio;1;false;Dd - Ds - Dc
+4371;A;Raspadori Giacomo;Sassuolo;16;false;Pc
+4374;D;Walukiewicz Sebastian;Cagliari;6;false;Dc
+4375;D;Terzic Aleksa;Fiorentina;2;false;Ds - E
+4376;C;Zurkowski Szymon;Empoli;4;false;C
+4377;C;Castrovilli Gaetano;Fiorentina;14;false;C - T
+4384;C;Jagiello Filip;Genoa;5;false;C
+4385;C;Lazaro Valentino;Inter;2;false;E - W
+4393;C;Schouten Jardy;Bologna;7;false;M - C
+4397;D;Vavro Denis;Lazio;2;false;Dc
+4401;D;Gabbia Matteo;Milan;1;false;Dc
+4403;D;Chabot Julian;Sampdoria;4;false;Dc
+4404;C;Thorsby Morten;Sampdoria;9;false;M - C
+4406;D;Tripaldelli Alessandro;Cagliari;1;false;Ds - E
+4407;D;Igor;Fiorentina;4;false;Ds - Dc
+4409;D;Rrahmani Amir;Napoli;5;false;Dc
+4411;C;Agoume Lucien;Inter;3;false;M - C
+4412;D;Becao Rodrigo;Udinese;5;false;Dc
+4414;D;Denswil Stefano;Bologna;2;false;Ds - Dc
+4415;C;Skov Olsen Andreas;Bologna;9;false;W - A
+4421;D;Augello Tommaso;Sampdoria;9;false;Ds - E
+4422;D;Tomiyasu Takehiro;Bologna;10;false;Dd - Dc
+4426;D;Toljan Jeremy;Sassuolo;5;false;Dd - Ds - E
+4427;C;Malinovskyi Ruslan;Atalanta;26;false;T
+4428;D;De Ligt Matthijs;Juventus;12;false;Dc
+4433;D;Zortea Nadir;Salernitana;4;false;Dd - Ds - E
+4435;A;Colley Ebrima;Atalanta;4;false;A
+4441;P;Andrenacci Lorenzo;Genoa;1;false;Por
+4449;C;Tonali Sandro;Milan;5;false;M - C
+4453;A;Torregrossa Ernesto;Sampdoria;7;false;Pc
+4459;C;Rovella Nicolò;Genoa;4;false;M - C
+4461;D;Zappa Gabriele;Cagliari;7;false;Dd - E
+4465;C;Fagioli Nicolò;Juventus;1;false;C - T
+4477;A;La Mantia Andrea;Empoli;7;false;Pc
+4479;C;Elmas Eljif;Napoli;7;false;C - T
+4491;P;Berardi Alessandro;Verona;1;false;Por
+4493;D;Dawidowicz Pawel;Verona;6;false;Dc
+4494;D;Empereur Alan;Verona;2;false;Ds - Dc
+4495;D;Kumbulla Marash;Roma;6;false;Dc
+4500;A;Di Carmine Samuel;Verona;3;false;Pc
+4501;C;Obiang Pedro;Sassuolo;4;false;M - C
+4507;A;Tutino Gennaro;Napoli;8;false;A
+4510;A;Leao Rafael;Milan;14;false;A
+4514;C;Nandez Nahitan;Cagliari;12;false;E - M
+4515;C;Agudelo Kevin;Genoa;7;false;T - A
+4517;A;Lozano Hirving;Napoli;24;false;A
+4519;D;Cetin Mert;Verona;2;false;Dc
+4521;D;Muldur Mert;Sassuolo;7;false;Dd - E
+4522;C;Amrabat Sofyan;Fiorentina;7;false;M - C
+4525;P;Gemello Luca;Torino;1;false;Por
+4530;D;Kyriakopoulos Georgios;Sassuolo;6;false;Ds - E
+4661;A;Osimhen Victor;Napoli;33;false;Pc
+4681;C;Lopez Maxime;Sassuolo;8;false;C - T
+4725;C;Demme Diego;Napoli;10;false;M
+4751;D;Tomori Fikayo;Milan;12;false;Dc
+4825;C;Diaz Brahim;Milan;13;false;W - T
+4867;P;Turati Stefano;Sassuolo;1;false;Por
+4869;C;Dominguez Nicolas;Bologna;6;false;M - C
+4881;D;Czyborra Lennart;Genoa;6;false;Ds - E
+4884;A;Carles Perez;Roma;8;false;W - A
+4885;C;Villar Gonzalo;Roma;5;false;M - C
+4886;C;Pereiro Gaston;Cagliari;8;false;W - T
+4888;D;Sutalo Bosko;Atalanta;2;false;Dc
+4890;C;Tameze Adrien;Verona;7;false;M - C
+4891;D;Soumaoro Adama;Bologna;7;false;Dc
+4892;C;Saelemaekers Alexis;Milan;11;false;W
+4894;C;Haraslin Lukas;Sassuolo;3;false;W
+4895;D;Yoshida Maya;Sampdoria;9;false;Dc
+4896;C;Maldini Daniel;Milan;1;false;T - A
+4899;D;Singo Wilfried Stephane;Torino;6;false;E
+4919;C;Baldursson Andri Fannar;Bologna;1;false;C - T
+4921;C;Askildsen Kristoffer;Sampdoria;1;false;C
+4925;D;Carboni Andrea;Cagliari;5;false;Ds - Dc
+4932;D;Ballarini Marco;Udinese;1;false;Dd - E - M
+4934;D;Lovato Matteo;Atalanta;4;false;Dc
+4935;C;Ladinetti Riccardo;Cagliari;1;false;M - C
+4936;A;Manzari Giacomo;Sassuolo;1;false;A
+4938;A;Moro Raul;Lazio;3;false;A
+4945;D;Calafiori Riccardo;Roma;2;false;Ds - E
+4946;D;Frabotta Gianluca;Verona;2;false;Ds - E
+4950;D;Dalle Mura Christian;Fiorentina;1;false;Dc
+4953;C;Palumbo Martin;Udinese;1;false;C
+4957;P;Montipò Lorenzo;Verona;9;false;Por
+4964;P;Vicario Guglielmo;Empoli;6;false;Por
+4965;C;Marin Razvan;Cagliari;12;false;C
+4973;C;McKennie Weston;Juventus;15;false;C
+4975;C;Escalante Gonzalo;Lazio;3;false;M - C
+4976;D;Kalulu Pierre;Milan;2;false;Dd - Dc
+4977;P;Ravaglia Nicola;Sampdoria;1;false;Por
+4978;C;Damsgaard Mikkel;Sampdoria;14;false;W - T - A
+4979;D;Ayhan Kaan;Sassuolo;3;false;Dd - Dc
+4981;P;Krapikas Titas;Spezia;1;false;Por
+4982;D;Erlic Martin;Spezia;7;false;Dc
+4983;D;Ferrer Salva;Spezia;2;false;Dd - E
+4984;D;Ramos Juan;Spezia;1;false;Ds - E
+4985;D;Vignali Luca;Spezia;3;false;Dd - E
+4988;C;Maggiore Giulio;Spezia;13;false;C
+4992;A;Gyasi Emmanuel;Spezia;13;false;A
+4994;D;Vojvoda Mergim;Torino;6;false;E
+4995;C;Segre Jacopo;Torino;1;false;C
+4996;P;Pandur Ivor;Verona;1;false;Por
+4997;D;Ruegg Kevin;Verona;2;false;Dd - E
+4998;D;Molina Nahuel;Udinese;12;false;Dd - E
+5001;C;Miranchuk Aleksej;Atalanta;15;false;T - A
+5004;A;Forestieri Fernando;Udinese;3;false;A
+5005;P;Zoet Jeroen;Spezia;7;false;Por
+5010;D;Ismajli Ardian;Spezia;6;false;Dc
+5012;A;Muriqi Vedat;Lazio;4;false;Pc
+5017;D;Ballo-Tourè Fodè;Milan;5;false;Ds - E
+5233;A;Mayoral Borja;Roma;21;false;Pc
+5286;C;Akpa Akpro Jean-Daniel;Lazio;3;false;M - C
+5287;C;Arslan Tolgay;Udinese;8;false;M - C
+5292;A;Lammers Sam;Atalanta;13;false;Pc
+5298;C;Pobega Tommaso;Milan;6;false;C
+5300;D;Hickey Aaron;Bologna;3;false;Ds - E
+5304;P;Boer Pietro;Roma;1;false;Por
+5306;P;Alia Marco;Lazio;1;false;Por
+5310;A;Hauge Jens Petter;Milan;5;false;W - A
+5311;A;Shomurodov Eldor;Genoa;16;false;Pc
+5312;C;Leò Sena;Spezia;6;false;M - C
+5316;D;Amione Bruno;Verona;1;false;Ds - Dc
+5323;D;Martinez Quarta Lucas;Fiorentina;5;false;Dc
+5329;C;Makengo Jean-Victor;Udinese;2;false;M - C
+5332;D;Bastoni Simone;Spezia;7;false;Ds - E
+5336;A;Nzola M'Bala;Spezia;20;false;Pc
+5354;D;Ruggeri Matteo;Salernitana;1;false;Ds - E
+5355;D;Udogie Destiny;Udinese;4;false;Ds - E - M
+5365;D;Dragusin Radu;Juventus;1;false;Dc
+5375;D;Maehle Joakim;Atalanta;9;false;E
+5378;A;Oddei Brian;Sassuolo;1;false;A
+5391;A;Kokorin Aleksandr;Fiorentina;5;false;Pc
+5397;C;Kovalenko Viktor;Atalanta;5;false;T
+5398;D;Reynolds Bryan;Roma;3;false;Dd - E
+5420;C;Darboe Ebrima;Roma;2;false;M - C
+5422;C;Zalewski Nicola;Roma;1;false;W - T
+5439;A;Kallon Yayah;Genoa;2;false;A
+5444;C;Cortinovis Alessandro;Atalanta;1;false;T
+5445;D;Binks Luis;Bologna;1;false;Dc
+5446;A;van Hooijdonk Sydney;Bologna;2;false;Pc
+5447;D;Altare Giorgio;Cagliari;2;false;Dc
+5448;P;Furlan Jacopo;Empoli;1;false;Por
+5449;D;Parisi Fabiano;Empoli;4;false;Ds - E
+5450;D;Stojanovic Peter;Empoli;5;false;Dd - E
+5451;C;Bajrami Nedim;Empoli;10;false;T
+5452;C;Damiani Samuele;Empoli;1;false;M - C
+5453;C;Ricci Samuele;Empoli;5;false;M - C
+5454;A;Mancuso Leonardo;Empoli;13;false;Pc
+5455;A;Moreo Stefano;Empoli;1;false;Pc
+5456;D;Ferrarini Gabriele;Fiorentina;2;false;Dd - E
+5457;C;Maleh Youssef;Fiorentina;4;false;C
+5458;A;Munteanu Louis;Fiorentina;1;false;Pc
+5459;A;Buksa Aleksander;Genoa;1;false;Pc
+5460;A;Satriano Martin;Inter;5;false;Pc
+5461;D;Kamenovic Dimitrije;Lazio;1;false;Ds - E
+5462;C;Ciervo Riccardo;Roma;1;false;W - A
+5463;D;Aya Ramzi;Salernitana;2;false;Dc
+5464;D;Bogdan Luka;Salernitana;4;false;Dc
+5465;D;Sy Sanasi;Salernitana;1;false;Ds - E
+5466;D;Strandberg Stefan;Salernitana;3;false;Dc
+5467;C;Boultam Reda;Salernitana;1;false;C - T
+5468;C;Cavion Michele;Salernitana;3;false;C
+5469;C;Di Tacchio Francesco;Salernitana;4;false;M - C
+5470;C;Schiavone Andrea;Salernitana;1;false;M - C
+5471;A;Djuric Milan;Salernitana;6;false;Pc
+5472;A;Kristoffersen Julian;Salernitana;1;false;Pc
+5473;D;Kaique Rocha;Sampdoria;1;false;Dd - Dc
+5475;D;Amian Kelvin;Spezia;6;false;Dd - Dc
+5476;C;Kornvig Emil;Spezia;1;false;C
+5477;A;Warming Magnus;Torino;1;false;A
+5478;P;Maenpaa Niki;Venezia;1;false;Por
+5479;D;Ceccaroni Pietro;Venezia;5;false;Ds - Dc
+5480;D;Ebuhei Tyronne;Venezia;4;false;Dd - E
+5481;D;Mazzocchi Pasquale;Venezia;4;false;Dd - E
+5482;D;Modolo Marco;Venezia;4;false;Dc
+5483;D;Schnegg David;Venezia;6;false;Ds - E
+5484;D;Svoboda Michael;Venezia;1;false;Dc
+5485;C;Bjarkason Bjarki Steinn;Venezia;1;false;W - T - A
+5486;C;Crnigoj Domen;Venezia;3;false;C - W
+5487;C;Heymans Daan;Venezia;8;false;W - T
+5488;C;Fiordilino Luca;Venezia;6;false;M - C
+5489;C;Pecile Damiano;Venezia;1;false;M
+5490;C;Peretez Dor;Venezia;5;false;M - C
+5491;C;Taugourdeau Anthony;Venezia;4;false;M
+5492;C;Tessmann Tanner;Venezia;5;false;M - C
+5493;A;Bocalon Riccardo;Venezia;1;false;Pc
+5494;A;Di Mariano Francesco;Venezia;5;false;A
+5495;A;Forte Francesco;Venezia;9;false;Pc
+5496;A;Johnsen Dennis;Venezia;5;false;A
+5498;D;Casale Nicolò;Verona;3;false;Dd - Dc
+5499;C;Hongla Martin;Verona;4;false;M - C
+5500;A;Cancellieri Matteo;Verona;1;false;A
+5501;C;Sigurdsson Arnor;Venezia;9;false;W - T
